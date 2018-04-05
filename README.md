@@ -1,2 +1,2 @@
 # pluralsight-js-dev-env
-Javascript Development Environment via Pluralsight with Cory hzouse
+Javascript Development Environment via Pluralsight with Cory House
